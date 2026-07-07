@@ -1,7 +1,6 @@
 <div align="center">
 
-# Shohn Page's AI Program Management & Product Portfolio 🧭🤖
-
+# Shohn Page's AI Engineering Portfolio 🤖
 Passionate about shipping real products, with hands-on experience across program management, full-stack build, and applied AI. I design, build, and operate production systems end to end under [RecFocus](https://recfocus.com): client platforms, CRMs, automation agents, and monitoring tools, and increasingly, autonomous AI workflows that run real operations unattended.
 
 ![Program Mgmt](https://img.shields.io/badge/Program%20Management-PMP%20%C2%B7%20Agile-653DF4?style=for-the-badge)
